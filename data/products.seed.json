@@ -1,0 +1,222 @@
+[
+  {
+    "sku": "DEMO-001",
+    "name": "Mouse USB",
+    "description": "Producto ficticio de prueba: Mouse USB",
+    "category": "Accesorios",
+    "price": "25.00",
+    "currency": "BOB",
+    "stock": 5,
+    "status": "active",
+    "attributes": {}
+  },
+  {
+    "sku": "DEMO-002",
+    "name": "Mouse inalámbrico",
+    "description": "Producto ficticio de prueba: Mouse inalámbrico",
+    "category": "Accesorios",
+    "price": "40.00",
+    "currency": "BOB",
+    "stock": 6,
+    "status": "active",
+    "attributes": {}
+  },
+  {
+    "sku": "DEMO-003",
+    "name": "Teclado USB",
+    "description": "Producto ficticio de prueba: Teclado USB",
+    "category": "Accesorios",
+    "price": "55.00",
+    "currency": "BOB",
+    "stock": 7,
+    "status": "active",
+    "attributes": {}
+  },
+  {
+    "sku": "DEMO-004",
+    "name": "Teclado inalámbrico",
+    "description": "Producto ficticio de prueba: Teclado inalámbrico",
+    "category": "Accesorios",
+    "price": "70.00",
+    "currency": "BOB",
+    "stock": 8,
+    "status": "active",
+    "attributes": {}
+  },
+  {
+    "sku": "DEMO-005",
+    "name": "Audífonos con cable",
+    "description": "Producto ficticio de prueba: Audífonos con cable",
+    "category": "Accesorios",
+    "price": "85.00",
+    "currency": "BOB",
+    "stock": 0,
+    "status": "active",
+    "attributes": {}
+  },
+  {
+    "sku": "DEMO-006",
+    "name": "Audífonos Bluetooth",
+    "description": "Producto ficticio de prueba: Audífonos Bluetooth",
+    "category": "Accesorios",
+    "price": "100.00",
+    "currency": "BOB",
+    "stock": 10,
+    "status": "active",
+    "attributes": {}
+  },
+  {
+    "sku": "DEMO-007",
+    "name": "Parlante portátil",
+    "description": "Producto ficticio de prueba: Parlante portátil",
+    "category": "Accesorios",
+    "price": "115.00",
+    "currency": "BOB",
+    "stock": 11,
+    "status": "active",
+    "attributes": {}
+  },
+  {
+    "sku": "DEMO-008",
+    "name": "Cámara web",
+    "description": "Producto ficticio de prueba: Cámara web",
+    "category": "Accesorios",
+    "price": "130.00",
+    "currency": "BOB",
+    "stock": 12,
+    "status": "active",
+    "attributes": {}
+  },
+  {
+    "sku": "DEMO-009",
+    "name": "Cable USB-C",
+    "description": "Producto ficticio de prueba: Cable USB-C",
+    "category": "Accesorios",
+    "price": "145.00",
+    "currency": "BOB",
+    "stock": 13,
+    "status": "active",
+    "attributes": {}
+  },
+  {
+    "sku": "DEMO-010",
+    "name": "Cargador USB-C",
+    "description": "Producto ficticio de prueba: Cargador USB-C",
+    "category": "Accesorios",
+    "price": "160.00",
+    "currency": "BOB",
+    "stock": 14,
+    "status": "active",
+    "attributes": {}
+  },
+  {
+    "sku": "DEMO-011",
+    "name": "Hub USB",
+    "description": "Producto ficticio de prueba: Hub USB",
+    "category": "Accesorios",
+    "price": "175.00",
+    "currency": "BOB",
+    "stock": 15,
+    "status": "active",
+    "attributes": {}
+  },
+  {
+    "sku": "DEMO-012",
+    "name": "Memoria USB 32 GB",
+    "description": "Producto ficticio de prueba: Memoria USB 32 GB",
+    "category": "Accesorios",
+    "price": "190.00",
+    "currency": "BOB",
+    "stock": 16,
+    "status": "active",
+    "attributes": {}
+  },
+  {
+    "sku": "DEMO-013",
+    "name": "Memoria USB 64 GB",
+    "description": "Producto ficticio de prueba: Memoria USB 64 GB",
+    "category": "Accesorios",
+    "price": "205.00",
+    "currency": "BOB",
+    "stock": 17,
+    "status": "active",
+    "attributes": {}
+  },
+  {
+    "sku": "DEMO-014",
+    "name": "SSD externo 500 GB",
+    "description": "Producto ficticio de prueba: SSD externo 500 GB",
+    "category": "Accesorios",
+    "price": "220.00",
+    "currency": "BOB",
+    "stock": 0,
+    "status": "active",
+    "attributes": {}
+  },
+  {
+    "sku": "DEMO-015",
+    "name": "Soporte para laptop",
+    "description": "Producto ficticio de prueba: Soporte para laptop",
+    "category": "Accesorios",
+    "price": "235.00",
+    "currency": "BOB",
+    "stock": 19,
+    "status": "active",
+    "attributes": {}
+  },
+  {
+    "sku": "DEMO-016",
+    "name": "Alfombrilla para mouse",
+    "description": "Producto ficticio de prueba: Alfombrilla para mouse",
+    "category": "Accesorios",
+    "price": "250.00",
+    "currency": "BOB",
+    "stock": 20,
+    "status": "active",
+    "attributes": {}
+  },
+  {
+    "sku": "DEMO-017",
+    "name": "Adaptador HDMI",
+    "description": "Producto ficticio de prueba: Adaptador HDMI",
+    "category": "Accesorios",
+    "price": "265.00",
+    "currency": "BOB",
+    "stock": 21,
+    "status": "active",
+    "attributes": {}
+  },
+  {
+    "sku": "DEMO-018",
+    "name": "Cable HDMI",
+    "description": "Producto ficticio de prueba: Cable HDMI",
+    "category": "Accesorios",
+    "price": "280.00",
+    "currency": "BOB",
+    "stock": 22,
+    "status": "active",
+    "attributes": {}
+  },
+  {
+    "sku": "DEMO-019",
+    "name": "Lector de tarjetas",
+    "description": "Producto ficticio de prueba: Lector de tarjetas",
+    "category": "Accesorios",
+    "price": "295.00",
+    "currency": "BOB",
+    "stock": 23,
+    "status": "active",
+    "attributes": {}
+  },
+  {
+    "sku": "DEMO-020",
+    "name": "Micrófono USB",
+    "description": "Producto ficticio de prueba: Micrófono USB",
+    "category": "Accesorios",
+    "price": "310.00",
+    "currency": "BOB",
+    "stock": 24,
+    "status": "active",
+    "attributes": {}
+  }
+]
