@@ -1,0 +1,38 @@
+{
+  "name": "chatbot-whatsapp",
+  "version": "0.1.0",
+  "description": "Agente de WhatsApp para consultas de catálogo",
+  "scripts": {
+    "test": "tsx --test tests/*.test.ts",
+    "dev": "tsx watch src/server.ts",
+    "build": "tsc -p tsconfig.json",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "start": "node dist/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elcasanomos/ChatBot_WhatsAPP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/elcasanomos/ChatBot_WhatsAPP/issues"
+  },
+  "homepage": "https://github.com/elcasanomos/ChatBot_WhatsAPP#readme",
+  "dependencies": {
+    "dotenv": "^18.0.7",
+    "drizzle-orm": "^0.45.4",
+    "fastify": "^5.12.5",
+    "zod": "^4.6.5"
+  },
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
